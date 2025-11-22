@@ -1,4 +1,3 @@
-HERE IS src/viz.p
 from _future_ import annotations
 
 from typing import Optional

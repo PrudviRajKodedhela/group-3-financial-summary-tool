@@ -1,4 +1,3 @@
-HERE IS src/summary.py:
 from _future_ import annotations
 
 from typing import Literal
