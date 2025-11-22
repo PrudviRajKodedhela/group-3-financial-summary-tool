@@ -22,14 +22,12 @@ This repository was developed in a **one-week mini sprint** to practice Agile pl
 │   └─ transactions.csv           # (not tracked in git if large/sensitive)
 ├─ src/
 │   ├─ __init__.py
-│   ├─ io_utils.py                # data loading
 │   ├─ cleaning.py                # cleaning & preprocessing
 │   ├─ summary.py                 # income/expense, category, monthly summaries
 │   └─ viz.py                     # plotting functions (return matplotlib figures)
 ├─ notebooks/
 │   └─ demo_analysis.ipynb        # example usage of functions
 ├─ tests/
-│   ├─ test_io_utils.py
 │   ├─ test_cleaning.py
 │   └─ test_summary.py
 ├─ .gitignore
